@@ -1,3 +1,12 @@
+	
+
+
+
+
+
+
+
+
 import React from "react";
 
 function Header() {
@@ -6,7 +15,7 @@ function Header() {
       <h1>
         Plantsy
         <span className="logo" role="img">
-          🌱
+          :seedling:
         </span>
       </h1>
     </header>
